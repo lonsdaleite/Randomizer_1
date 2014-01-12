@@ -1,0 +1,11 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_NUM_1",
+            "type": "png",
+            "file": "images/img1.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "RANDOMIZER_RESOURCES"
+}
